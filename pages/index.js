@@ -14,8 +14,8 @@ export default function FirstPost() {
         <p>Hello, I'm Can. A programmer who likes making fun websites and currently mastering Javascript/React 😎</p>
         <p>Also here are some contacts:</p>
         <ul>
-            <li>mail: john@galba.co</li>
             <li>discord: pirate#1234</li>
+            <li>twitter: <a href="https://twitter.com/lelpirate">@lelpirate</a></li>
         </ul>
         <p>And <a href="https://github.com/tpirate">here</a> is my github.</p>
         <p>And a good song list cuz we have extra room: </p>
