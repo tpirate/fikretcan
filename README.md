@@ -1,1 +1,0 @@
-# fikretcan.com
